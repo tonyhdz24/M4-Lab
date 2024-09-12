@@ -23,5 +23,7 @@ The goal of the module 4 lab was to refresh our understanding of CSS and help id
 
 ## Sources and Credits
 CSS Grid Layout Guide: https://css-tricks.com/snippets/css/complete-guide-grid/
+
 CSS Flexbox guide: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
 Shane Panter: https://github.com/shanep/web-dev-starter
